@@ -1,0 +1,97 @@
+# 📘 Project Guide – Freedom Analytics Excel Dashboard
+
+## 🧭 1. Introduction
+This guide explains how to set up, explore, and use the **Freedom Analytics Dashboard** built in Microsoft Excel.  
+It covers data preparation, dashboard workflow, and navigation steps to help users understand the insights effectively.
+
+---
+
+## 📂 2. Project Overview
+The project analyzes key performance metrics across categories, customer profiles, and business indicators.  
+It includes an interactive dashboard, slicers, heatmaps, and KPI visualizations for business decision-making.
+
+---
+
+## 🗄️ 3. Requirements
+- Microsoft Excel (2016 or above recommended)  
+- Basic knowledge of Pivot Tables & Charts  
+- Understanding of sales/operations analytics (optional)
+
+---
+
+## 📥 4. Step-by-Step Process
+
+### **Step 1: Import Dataset**
+- Open the Excel file  
+- Load the raw data into the **Data** sheet  
+- Ensure all columns (Date, Category, Region, Sales, Profit, etc.) are correctly formatted  
+
+### **Step 2: Data Cleaning**
+Apply the following:  
+- Removing duplicates  
+- Correcting data types  
+- Fixing missing values  
+- Standardizing category and region names  
+
+### **Step 3: Create Data Model**
+- Build Pivot Tables for essential KPIs  
+- Create summary tables for:  
+  - Category Performance  
+  - Region Insights  
+  - Customer Segments  
+  - Monthly/Yearly Trends  
+
+### **Step 4: Build Visualizations**
+Use Pivot Charts for:  
+- Sales & Profit Trends  
+- Category Contribution  
+- Region-wise Performance  
+- Segment Distribution  
+- KPI Cards (Revenue, Profit, Quantity, Avg. Order Value)
+
+### **Step 5: Design the Dashboard**
+- Arrange charts neatly in a dashboard layout  
+- Add slicers for:
+  - Year  
+  - Category  
+  - Segment  
+  - Region  
+- Apply a clean and consistent theme  
+
+### **Step 6: Review & Validate**
+- Validate totals and KPIs  
+- Test slicer interactions  
+- Check formatting and navigation flow  
+
+---
+
+## 📊 5. How to Use the Dashboard
+1. Open the **Dashboard** sheet  
+2. Use slicers to filter by **Year, Category, Segment, Region**  
+3. Review KPI cards for quick checks  
+4. Explore charts for detailed insights  
+5. Export visuals for presentations if needed  
+
+---
+
+## 📌 6. Best Practices
+- Keep the raw data unmodified  
+- Always refresh Pivot Tables after data updates  
+- Avoid merged cells in data source sheets  
+- Maintain clean formatting for readability  
+
+---
+
+## 🧠 7. Insights You Can Extract
+- High & low performing categories  
+- Region-wise profit strengths  
+- Customer segment behavior  
+- Time-based sales trends  
+- Impact of discounts on profitability  
+
+---
+
+## 🎯 8. Conclusion
+This guide enables you to understand, navigate, and extract value from the Freedom Analytics Excel Dashboard.  
+It is designed to deliver fast, accurate, and visually rich insights for professional reporting.
+
